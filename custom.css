@@ -1,5 +1,10 @@
 
-/* CSS Document */
+.nav-item a  {
+    color: black;
+}
+hr {
+    margin-left: 40px;
+}
 
 .bg-black{ 
     background-color: rgba(14,14,14,1.00)
